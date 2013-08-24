@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjStation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+  <objStation>
+    <StationDesc>Malahide</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.4509</StationLatitude>
+    <StationLongitude>-6.15649</StationLongitude>
+    <StationCode>MHIDE</StationCode>
+    <StationId>112</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Portmarnock</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.4169</StationLatitude>
+    <StationLongitude>-6.1512</StationLongitude>
+    <StationCode>PMNCK</StationCode>
+    <StationId>111</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Clongriffin</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.4032</StationLatitude>
+    <StationLongitude>-6.14839</StationLongitude>
+    <StationCode>GRGRD</StationCode>
+    <StationId>187</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Sutton</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.392</StationLatitude>
+    <StationLongitude>-6.11448</StationLongitude>
+    <StationCode>SUTTN</StationCode>
+    <StationId>107</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Bayside</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.3917</StationLatitude>
+    <StationLongitude>-6.13678</StationLongitude>
+    <StationCode>BYSDE</StationCode>
+    <StationId>106</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Howth Junction</StationDesc>
+    <StationAlias>Donaghmede ( Howth Junction )</StationAlias>
+    <StationLatitude>53.3909</StationLatitude>
+    <StationLongitude>-6.15672</StationLongitude>
+    <StationCode>HWTHJ</StationCode>
+    <StationId>105</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Howth</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.3891</StationLatitude>
+    <StationLongitude>-6.07401</StationLongitude>
+    <StationCode>HOWTH</StationCode>
+    <StationId>108</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Kilbarrack</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.387</StationLatitude>
+    <StationLongitude>-6.16163</StationLongitude>
+    <StationCode>KBRCK</StationCode>
+    <StationId>104</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Raheny</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.3815</StationLatitude>
+    <StationLongitude>-6.17699</StationLongitude>
+    <StationCode>RAHNY</StationCode>
+    <StationId>103</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Harmonstown</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.3786</StationLatitude>
+    <StationLongitude>-6.19131</StationLongitude>
+    <StationCode>HTOWN</StationCode>
+    <StationId>102</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Killester</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.373</StationLatitude>
+    <StationLongitude>-6.20442</StationLongitude>
+    <StationCode>KLSTR</StationCode>
+    <StationId>101</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Clontarf Road</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.3629</StationLatitude>
+    <StationLongitude>-6.22753</StationLongitude>
+    <StationCode>CTARF</StationCode>
+    <StationId>109</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Dublin Connolly</StationDesc>
+    <StationAlias>Connolly</StationAlias>
+    <StationLatitude>53.3531</StationLatitude>
+    <StationLongitude>-6.24591</StationLongitude>
+    <StationCode>CNLLY</StationCode>
+    <StationId>100</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Tara Street</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.347</StationLatitude>
+    <StationLongitude>-6.25425</StationLongitude>
+    <StationCode>TARA </StationCode>
+    <StationId>124</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Dublin Pearse</StationDesc>
+    <StationAlias>Pearse</StationAlias>
+    <StationLatitude>53.3433</StationLatitude>
+    <StationLongitude>-6.24829</StationLongitude>
+    <StationCode>PERSE</StationCode>
+    <StationId>150</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Grand Canal Dock</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.3397</StationLatitude>
+    <StationLongitude>-6.23773</StationLongitude>
+    <StationCode>GCDK </StationCode>
+    <StationId>110</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Lansdowne Road</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.3347</StationLatitude>
+    <StationLongitude>-6.22979</StationLongitude>
+    <StationCode>LDWNE</StationCode>
+    <StationId>125</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Sandymount</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.3281</StationLatitude>
+    <StationLongitude>-6.22116</StationLongitude>
+    <StationCode>SMONT</StationCode>
+    <StationId>188</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Sydney Parade</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.3206</StationLatitude>
+    <StationLongitude>-6.21112</StationLongitude>
+    <StationCode>SIDNY</StationCode>
+    <StationId>126</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Booterstown</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.3099</StationLatitude>
+    <StationLongitude>-6.19498</StationLongitude>
+    <StationCode>BTSTN</StationCode>
+    <StationId>127</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Blackrock</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.3027</StationLatitude>
+    <StationLongitude>-6.17833</StationLongitude>
+    <StationCode>BROCK</StationCode>
+    <StationId>128</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Seapoint</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.2991</StationLatitude>
+    <StationLongitude>-6.16512</StationLongitude>
+    <StationCode>SEAPT</StationCode>
+    <StationId>129</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Salthill</StationDesc>
+    <StationAlias>Monkstown ( Salthill )</StationAlias>
+    <StationLatitude>53.2954</StationLatitude>
+    <StationLongitude>-6.15206</StationLongitude>
+    <StationCode>SHILL</StationCode>
+    <StationId>130</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Dun Laoghaire</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.2951</StationLatitude>
+    <StationLongitude>-6.13498</StationLongitude>
+    <StationCode>DLERY</StationCode>
+    <StationId>131</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Sandycove</StationDesc>
+    <StationAlias>Glasthule (Sandycove ) </StationAlias>
+    <StationLatitude>53.2878</StationLatitude>
+    <StationLongitude>-6.12712</StationLongitude>
+    <StationCode>SCOVE</StationCode>
+    <StationId>132</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Glenageary</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.2812</StationLatitude>
+    <StationLongitude>-6.12289</StationLongitude>
+    <StationCode>GLGRY</StationCode>
+    <StationId>133</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Dalkey</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.2756</StationLatitude>
+    <StationLongitude>-6.10333</StationLongitude>
+    <StationCode>DLKEY</StationCode>
+    <StationId>134</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Killiney</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.2557</StationLatitude>
+    <StationLongitude>-6.11317</StationLongitude>
+    <StationCode>KILNY</StationCode>
+    <StationId>135</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Shankill</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.2364</StationLatitude>
+    <StationLongitude>-6.11691</StationLongitude>
+    <StationCode>SKILL</StationCode>
+    <StationId>136</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Bray</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.2043</StationLatitude>
+    <StationLongitude>-6.10046</StationLongitude>
+    <StationCode>BRAY </StationCode>
+    <StationId>140</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Greystones</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.1442</StationLatitude>
+    <StationLongitude>-6.06085</StationLongitude>
+    <StationCode>GSTNS</StationCode>
+    <StationId>141</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Kilcoole</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.107</StationLatitude>
+    <StationLongitude>-6.04112</StationLongitude>
+    <StationCode>KCOOL</StationCode>
+    <StationId>139</StationId>
+  </objStation>
+</ArrayOfObjStation>

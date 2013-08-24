@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjStationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+  <objStationData>
+    <Servertime>2013-08-24T17:30:14.93</Servertime>
+    <Traincode>E925 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:30:14</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Greystones</Origin>
+    <Destination>Howth</Destination>
+    <Origintime>16:30</Origintime>
+    <Destinationtime>17:48</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Departed Dublin Connolly</Lastlocation>
+    <Duein>14</Duein>
+    <Late>6</Late>
+    <Exparrival>17:43</Exparrival>
+    <Expdepart>17:44</Expdepart>
+    <Scharrival>17:38</Scharrival>
+    <Schdepart>17:38</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:30:14.93</Servertime>
+    <Traincode>E822 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:30:14</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Bray</Origin>
+    <Destination>Malahide</Destination>
+    <Origintime>16:55</Origintime>
+    <Destinationtime>18:05</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Departed Sydney Parade</Lastlocation>
+    <Duein>27</Duein>
+    <Late>3</Late>
+    <Exparrival>17:57</Exparrival>
+    <Expdepart>17:57</Expdepart>
+    <Scharrival>17:53</Scharrival>
+    <Schdepart>17:54</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:30:14.93</Servertime>
+    <Traincode>E250 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:30:14</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Malahide</Origin>
+    <Destination>Bray</Destination>
+    <Origintime>17:30</Origintime>
+    <Destinationtime>18:39</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>9</Duein>
+    <Late>0</Late>
+    <Exparrival>17:39</Exparrival>
+    <Expdepart>17:39</Expdepart>
+    <Scharrival>17:39</Scharrival>
+    <Schdepart>17:39</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:30:14.93</Servertime>
+    <Traincode>P618 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:30:14</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Drogheda</Origin>
+    <Destination>Dublin Pearse</Destination>
+    <Origintime>17:00</Origintime>
+    <Destinationtime>18:04</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Departed Rush and Lusk</Lastlocation>
+    <Duein>15</Duein>
+    <Late>0</Late>
+    <Exparrival>17:45</Exparrival>
+    <Expdepart>17:45</Expdepart>
+    <Scharrival>17:45</Scharrival>
+    <Schdepart>17:45</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:30:14.93</Servertime>
+    <Traincode>E224 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:30:14</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Howth</Origin>
+    <Destination>Bray</Destination>
+    <Origintime>17:45</Origintime>
+    <Destinationtime>18:54</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>24</Duein>
+    <Late>0</Late>
+    <Exparrival>17:54</Exparrival>
+    <Expdepart>17:54</Expdepart>
+    <Scharrival>17:54</Scharrival>
+    <Schdepart>17:54</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+</ArrayOfObjStationData>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjTrainPositions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>53.1442</TrainLatitude>
+    <TrainLongitude>-6.06085</TrainLongitude>
+    <TrainCode>E920</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E920\nGreystones to Howth\nExpected Departure 14:30</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>53.2043</TrainLatitude>
+    <TrainLongitude>-6.10046</TrainLongitude>
+    <TrainCode>E919</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E919\nBray to Howth\nExpected Departure 14:25</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>53.4509</TrainLatitude>
+    <TrainLongitude>-6.15649</TrainLongitude>
+    <TrainCode>E247</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E247\nMalahide to Bray\nExpected Departure 14:30</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2756</TrainLatitude>
+    <TrainLongitude>-6.10333</TrainLongitude>
+    <TrainCode>E215</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E215\n13:15 - Howth to Bray (9 mins late)\nArrived Dalkey next stop Killiney</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2756</TrainLatitude>
+    <TrainLongitude>-6.10333</TrainLongitude>
+    <TrainCode>E817</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E817\n14:10 - Bray to Malahide (0 mins late)\nArrived Dalkey next stop Glenageary</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2951</TrainLatitude>
+    <TrainLongitude>-6.13498</TrainLongitude>
+    <TrainCode>E246</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E246\n13:30 - Malahide to Bray (2 mins late)\nArrived Dun Laoghaire next stop Sandycove</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3027</TrainLatitude>
+    <TrainLongitude>-6.17833</TrainLongitude>
+    <TrainCode>E918</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E918\n13:55 - Bray to Howth (0 mins late)\nDeparted Blackrock next stop Booterstown</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3281</TrainLatitude>
+    <TrainLongitude>-6.22116</TrainLongitude>
+    <TrainCode>E216</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E216\n13:45 - Howth to Bray (0 mins late)\nArrived Sandymount next stop Sydney Parade</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3433</TrainLatitude>
+    <TrainLongitude>-6.24829</TrainLongitude>
+    <TrainCode>E816</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E816\n13:30 - Greystones to Malahide (3 mins late)\nArrived Dublin Pearse next stop Tara Street</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3629</TrainLatitude>
+    <TrainLongitude>-6.22753</TrainLongitude>
+    <TrainCode>E116</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E116\n14:02 - Malahide to Greystones (-1 mins late)\nDeparted Clontarf Road next stop Dublin Connolly</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.387</TrainLatitude>
+    <TrainLongitude>-6.16163</TrainLongitude>
+    <TrainCode>E917</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E917\n13:25 - Bray to Howth (-1 mins late)\nArrived Kilbarrack next stop Howth Junction</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.392</TrainLatitude>
+    <TrainLongitude>-6.11448</TrainLongitude>
+    <TrainCode>E217</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E217\n14:15 - Howth to Bray (2 mins late)\nArrived Sutton next stop Bayside</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>T</TrainStatus>
+    <TrainLatitude>53.1442</TrainLatitude>
+    <TrainLongitude>-6.06085</TrainLongitude>
+    <TrainCode>E114</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E114\n13:02 - Malahide to Greystones(0 mins late)\nTERMINATED Greystones at 14:19</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>T</TrainStatus>
+    <TrainLatitude>53.4509</TrainLatitude>
+    <TrainLongitude>-6.15649</TrainLongitude>
+    <TrainCode>E815</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>E815\n13:10 - Bray to Malahide(0 mins late)\nTERMINATED Malahide at 14:19</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+</ArrayOfObjTrainPositions>

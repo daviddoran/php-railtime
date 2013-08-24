@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjStation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+  <objStation>
+    <StationDesc>Dublin Connolly</StationDesc>
+    <StationAlias>Connolly</StationAlias>
+    <StationLatitude>53.3531</StationLatitude>
+    <StationLongitude>-6.24591</StationLongitude>
+    <StationCode>CNLLY</StationCode>
+    <StationId>100</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Dublin Heuston</StationDesc>
+    <StationAlias>Heuston</StationAlias>
+    <StationLatitude>53.3464</StationLatitude>
+    <StationLongitude>-6.29461</StationLongitude>
+    <StationCode>HSTON</StationCode>
+    <StationId>1</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Newbridge</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.1855</StationLatitude>
+    <StationLongitude>-6.80807</StationLongitude>
+    <StationCode>NBRGE</StationCode>
+    <StationId>4</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Curragh</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.1725</StationLatitude>
+    <StationLongitude>-6.86245</StationLongitude>
+    <StationCode>CURAH</StationCode>
+    <StationId>5</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Kildare</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.163</StationLatitude>
+    <StationLongitude>-6.90802</StationLongitude>
+    <StationCode>KDARE</StationCode>
+    <StationId>6</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Portarlington</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.146</StationLatitude>
+    <StationLongitude>-7.18055</StationLongitude>
+    <StationCode>PTRTN</StationCode>
+    <StationId>8</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Monasterevin</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.1454</StationLatitude>
+    <StationLongitude>-7.06361</StationLongitude>
+    <StationCode>MONVN</StationCode>
+    <StationId>7</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Portlaoise</StationDesc>
+    <StationAlias />
+    <StationLatitude>53.0371</StationLatitude>
+    <StationLongitude>-7.30086</StationLongitude>
+    <StationCode>PTLSE</StationCode>
+    <StationId>9</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Athy</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.992</StationLatitude>
+    <StationLongitude>-6.9762</StationLongitude>
+    <StationCode>ATHY </StationCode>
+    <StationId>45</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Roscrea</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.9607</StationLatitude>
+    <StationLongitude>-7.7941</StationLongitude>
+    <StationCode>RCREA</StationCode>
+    <StationId>31</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Cloughjordan</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.9363</StationLatitude>
+    <StationLongitude>-8.0246</StationLongitude>
+    <StationCode>CJRDN</StationCode>
+    <StationId>32</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Ballybrophy</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.8999</StationLatitude>
+    <StationLongitude>-7.60259</StationLongitude>
+    <StationCode>BBRHY</StationCode>
+    <StationId>11</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Nenagh</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.8605</StationLatitude>
+    <StationLongitude>-8.19471</StationLongitude>
+    <StationCode>NNAGH</StationCode>
+    <StationId>33</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Carlow</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.8407</StationLatitude>
+    <StationLongitude>-6.92217</StationLongitude>
+    <StationCode>CRLOW</StationCode>
+    <StationId>46</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Templemore</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.7878</StationLatitude>
+    <StationLongitude>-7.82293</StationLongitude>
+    <StationCode>TPMOR</StationCode>
+    <StationId>12</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Birdhill</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.7656</StationLatitude>
+    <StationLongitude>-8.44247</StationLongitude>
+    <StationCode>BHILL</StationCode>
+    <StationId>34</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Castleconnell</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.7128</StationLatitude>
+    <StationLongitude>-8.49794</StationLongitude>
+    <StationCode>CCONL</StationCode>
+    <StationId>35</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Muine Bheag</StationDesc>
+    <StationAlias>Bagenalstown</StationAlias>
+    <StationLatitude>52.699</StationLatitude>
+    <StationLongitude>-6.95213</StationLongitude>
+    <StationCode>MNEBG</StationCode>
+    <StationId>47</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Thurles</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.6766</StationLatitude>
+    <StationLongitude>-7.82189</StationLongitude>
+    <StationCode>THRLS</StationCode>
+    <StationId>13</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Limerick</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.6587</StationLatitude>
+    <StationLongitude>-8.62397</StationLongitude>
+    <StationCode>LMRCK</StationCode>
+    <StationId>40</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Kilkenny</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.655</StationLatitude>
+    <StationLongitude>-7.24498</StationLongitude>
+    <StationCode>KKNNY</StationCode>
+    <StationId>48</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Thomastown</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.523</StationLatitude>
+    <StationLongitude>-7.14891</StationLongitude>
+    <StationCode>THTWN</StationCode>
+    <StationId>49</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Limerick Junction</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.5009</StationLatitude>
+    <StationLongitude>-8.20003</StationLongitude>
+    <StationCode>LMRKJ</StationCode>
+    <StationId>16</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Tipperary</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.4701</StationLatitude>
+    <StationLongitude>-8.1625</StationLongitude>
+    <StationCode>TIPRY</StationCode>
+    <StationId>41</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Cahir</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.3777</StationLatitude>
+    <StationLongitude>-7.92181</StationLongitude>
+    <StationCode>CAHIR</StationCode>
+    <StationId>42</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Clonmel</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.3611</StationLatitude>
+    <StationLongitude>-7.69936</StationLongitude>
+    <StationCode>CLMEL</StationCode>
+    <StationId>43</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Carrick on Suir</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.3487</StationLatitude>
+    <StationLongitude>-7.40354</StationLongitude>
+    <StationCode>CKOSR</StationCode>
+    <StationId>44</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Charleville</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.3468</StationLatitude>
+    <StationLongitude>-8.65362</StationLongitude>
+    <StationCode>CVILL</StationCode>
+    <StationId>19</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Campile</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.2855</StationLatitude>
+    <StationLongitude>-6.93896</StationLongitude>
+    <StationCode>CPILE</StationCode>
+    <StationId>52</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Ballycullane</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.2834</StationLatitude>
+    <StationLongitude>-6.83958</StationLongitude>
+    <StationCode>BCLAN</StationCode>
+    <StationId>53</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Rosslare Strand</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.2726</StationLatitude>
+    <StationLongitude>-6.39254</StationLongitude>
+    <StationCode>RLSTD</StationCode>
+    <StationId>58</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Tralee</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.271</StationLatitude>
+    <StationLongitude>-9.69846</StationLongitude>
+    <StationCode>TRLEE</StationCode>
+    <StationId>28</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Wellingtonbridge</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.2678</StationLatitude>
+    <StationLongitude>-6.75392</StationLongitude>
+    <StationCode>WBDGE</StationCode>
+    <StationId>54</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Waterford</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.2667</StationLatitude>
+    <StationLongitude>-7.1183</StationLongitude>
+    <StationCode>WFORD</StationCode>
+    <StationId>50</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Rosslare Europort</StationDesc>
+    <StationAlias>Rosslare Harbour</StationAlias>
+    <StationLatitude>52.2531</StationLatitude>
+    <StationLongitude>-6.33493</StationLongitude>
+    <StationCode>RLEPT</StationCode>
+    <StationId>60</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Bridgetown</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.2312</StationLatitude>
+    <StationLongitude>-6.54918</StationLongitude>
+    <StationCode>BRGTN</StationCode>
+    <StationId>56</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Farranfore</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.1733</StationLatitude>
+    <StationLongitude>-9.55278</StationLongitude>
+    <StationCode>FFORE</StationCode>
+    <StationId>27</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Mallow</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.1396</StationLatitude>
+    <StationLongitude>-8.65521</StationLongitude>
+    <StationCode>MLLOW</StationCode>
+    <StationId>21</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Banteer</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.1287</StationLatitude>
+    <StationLongitude>-8.89793</StationLongitude>
+    <StationCode>BTEER</StationCode>
+    <StationId>23</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Rathmore</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.0854</StationLatitude>
+    <StationLongitude>-9.21756</StationLongitude>
+    <StationCode>RMORE</StationCode>
+    <StationId>25</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Millstreet</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.0776</StationLatitude>
+    <StationLongitude>-9.06973</StationLongitude>
+    <StationCode>MLSRT</StationCode>
+    <StationId>24</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Killarney</StationDesc>
+    <StationAlias />
+    <StationLatitude>52.0595</StationLatitude>
+    <StationLongitude>-9.50198</StationLongitude>
+    <StationCode>KLRNY</StationCode>
+    <StationId>26</StationId>
+  </objStation>
+  <objStation>
+    <StationDesc>Cork</StationDesc>
+    <StationAlias />
+    <StationLatitude>51.9018</StationLatitude>
+    <StationLongitude>-8.4582</StationLongitude>
+    <StationCode>CORK </StationCode>
+    <StationId>30</StationId>
+  </objStation>
+</ArrayOfObjStation>

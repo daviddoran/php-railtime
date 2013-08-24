@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjTrainPositions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>51.8491</TrainLatitude>
+    <TrainLongitude>-8.29956</TrainLongitude>
+    <TrainCode>P244</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>P244\nCobh to Cork\nExpected Departure 14:30</PublicMessage>
+    <Direction>To Cork</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>51.9018</TrainLatitude>
+    <TrainLongitude>-8.4582</TrainLongitude>
+    <TrainCode>D282</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>D282\nCork to Midleton\nExpected Departure 14:15</PublicMessage>
+    <Direction>To Midleton</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.0371</TrainLatitude>
+    <TrainLongitude>-7.30086</TrainLongitude>
+    <TrainCode>P213</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>P213\n14:20 - Portlaoise to Dublin Heuston (0 mins late)\nDeparted Portlaoise next stop Portarlington</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.146</TrainLatitude>
+    <TrainLongitude>-7.18055</TrainLongitude>
+    <TrainCode>D208</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>D208\n13:20 - Dublin Heuston to Portlaoise (1 mins late)\nDeparted Portarlington next stop Portlaoise</PublicMessage>
+    <Direction>To Portlaoise</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.334</TrainLatitude>
+    <TrainLongitude>-6.37868</TrainLongitude>
+    <TrainCode>D209</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>D209\n14:15 - Dublin Heuston to Portlaoise (-1 mins late)\nArrived Cherry Orchard next stop Clondalkin</PublicMessage>
+    <Direction>To Portlaoise</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.334</TrainLatitude>
+    <TrainLongitude>-6.37868</TrainLongitude>
+    <TrainCode>P212</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>P212\n13:20 - Portlaoise to Dublin Heuston (0 mins late)\nArrived Cherry Orchard next stop Dublin Heuston</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3632</TrainLatitude>
+    <TrainLongitude>-6.25908</TrainLongitude>
+    <TrainCode>P660</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>P660\n13:42 - Maynooth to Dublin Pearse (0 mins late)\nDeparted Drumcondra next stop Dublin Connolly</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3704</TrainLatitude>
+    <TrainLongitude>-6.50598</TrainLongitude>
+    <TrainCode>D914</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>D914\n13:42 - Dublin Pearse to Maynooth (3 mins late)\nArrived Leixlip (Louisa Bridge) next stop Maynooth</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3853</TrainLatitude>
+    <TrainLongitude>-6.44205</TrainLongitude>
+    <TrainCode>D308</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>D308\n14:15 - Clonsilla to M3 Parkway (2 mins late)\nArrived Hansfield next stop Dunboyne</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.387</TrainLatitude>
+    <TrainLongitude>-6.16163</TrainLongitude>
+    <TrainCode>P613</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>P613\n13:38 - Drogheda to Dublin Pearse (0 mins late)\nArrived Kilbarrack next stop Dublin Connolly</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.5741</TrainLatitude>
+    <TrainLongitude>-6.11933</TrainLongitude>
+    <TrainCode>D808</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>D808\n13:30 - Dublin Pearse to Drogheda (10 mins late)\nDeparted Skerries next stop Balbriggan</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.712</TrainLatitude>
+    <TrainLongitude>-6.33538</TrainLongitude>
+    <TrainCode>P714</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>P714\n14:17 - Drogheda to Dublin Connolly (3 mins late)\nDeparted Drogheda next stop Laytown</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+</ArrayOfObjTrainPositions>

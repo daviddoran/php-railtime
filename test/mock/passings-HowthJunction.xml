@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjStationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>E924 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Bray</Origin>
+    <Destination>Howth</Destination>
+    <Origintime>16:25</Origintime>
+    <Destinationtime>17:33</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Arrived Harmonstown</Lastlocation>
+    <Duein>4</Duein>
+    <Late>2</Late>
+    <Exparrival>17:25</Exparrival>
+    <Expdepart>17:25</Expdepart>
+    <Scharrival>17:22</Scharrival>
+    <Schdepart>17:23</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>D814 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Dublin Pearse</Origin>
+    <Destination>Dundalk</Destination>
+    <Origintime>17:15</Origintime>
+    <Destinationtime>18:45</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Arrived Dublin Connolly</Lastlocation>
+    <Duein>9</Duein>
+    <Late>-1</Late>
+    <Exparrival>17:30</Exparrival>
+    <Expdepart>17:30</Expdepart>
+    <Scharrival>17:30</Scharrival>
+    <Schdepart>17:31</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>E925 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Greystones</Origin>
+    <Destination>Howth</Destination>
+    <Origintime>16:30</Origintime>
+    <Destinationtime>17:48</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Arrived Tara Street</Lastlocation>
+    <Duein>18</Duein>
+    <Late>1</Late>
+    <Exparrival>17:39</Exparrival>
+    <Expdepart>17:39</Expdepart>
+    <Scharrival>17:38</Scharrival>
+    <Schdepart>17:38</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>E822 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Bray</Origin>
+    <Destination>Malahide</Destination>
+    <Origintime>16:55</Origintime>
+    <Destinationtime>18:05</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Arrived Seapoint</Lastlocation>
+    <Duein>34</Duein>
+    <Late>1</Late>
+    <Exparrival>17:55</Exparrival>
+    <Expdepart>17:55</Expdepart>
+    <Scharrival>17:53</Scharrival>
+    <Schdepart>17:54</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>E926 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Bray</Origin>
+    <Destination>Howth</Destination>
+    <Origintime>17:10</Origintime>
+    <Destinationtime>18:20</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Departed Killiney</Lastlocation>
+    <Duein>52</Duein>
+    <Late>2</Late>
+    <Exparrival>18:12</Exparrival>
+    <Expdepart>18:13</Expdepart>
+    <Scharrival>18:10</Scharrival>
+    <Schdepart>18:11</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>D816 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Dublin Pearse</Origin>
+    <Destination>Drogheda</Destination>
+    <Origintime>17:58</Origintime>
+    <Destinationtime>19:04</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>54</Duein>
+    <Late>0</Late>
+    <Exparrival>18:15</Exparrival>
+    <Expdepart>18:15</Expdepart>
+    <Scharrival>18:15</Scharrival>
+    <Schdepart>18:15</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>E927 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Bray</Origin>
+    <Destination>Howth</Destination>
+    <Origintime>17:25</Origintime>
+    <Destinationtime>18:33</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>63</Duein>
+    <Late>0</Late>
+    <Exparrival>18:23</Exparrival>
+    <Expdepart>18:24</Expdepart>
+    <Scharrival>18:23</Scharrival>
+    <Schdepart>18:24</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>D817 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Dublin Pearse</Origin>
+    <Destination>Drogheda</Destination>
+    <Origintime>18:16</Origintime>
+    <Destinationtime>19:20</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>71</Duein>
+    <Late>0</Late>
+    <Exparrival>18:31</Exparrival>
+    <Expdepart>18:32</Expdepart>
+    <Scharrival>18:31</Scharrival>
+    <Schdepart>18:32</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>E946 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Greystones</Origin>
+    <Destination>Howth</Destination>
+    <Origintime>17:30</Origintime>
+    <Destinationtime>18:51</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>82</Duein>
+    <Late>0</Late>
+    <Exparrival>18:42</Exparrival>
+    <Expdepart>18:43</Expdepart>
+    <Scharrival>18:42</Scharrival>
+    <Schdepart>18:43</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>E223 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Howth</Origin>
+    <Destination>Bray</Destination>
+    <Origintime>17:15</Origintime>
+    <Destinationtime>18:24</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Arrived Bayside</Lastlocation>
+    <Duein>3</Duein>
+    <Late>0</Late>
+    <Exparrival>17:24</Exparrival>
+    <Expdepart>17:24</Expdepart>
+    <Scharrival>17:24</Scharrival>
+    <Schdepart>17:24</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>E250 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Malahide</Origin>
+    <Destination>Bray</Destination>
+    <Origintime>17:30</Origintime>
+    <Destinationtime>18:39</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>18</Duein>
+    <Late>0</Late>
+    <Exparrival>17:39</Exparrival>
+    <Expdepart>17:39</Expdepart>
+    <Scharrival>17:39</Scharrival>
+    <Schdepart>17:39</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>P618 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Drogheda</Origin>
+    <Destination>Dublin Pearse</Destination>
+    <Origintime>17:00</Origintime>
+    <Destinationtime>18:04</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Departed Balbriggan</Lastlocation>
+    <Duein>25</Duein>
+    <Late>1</Late>
+    <Exparrival>17:45</Exparrival>
+    <Expdepart>17:46</Expdepart>
+    <Scharrival>17:45</Scharrival>
+    <Schdepart>17:45</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>E224 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Howth</Origin>
+    <Destination>Bray</Destination>
+    <Origintime>17:45</Origintime>
+    <Destinationtime>18:54</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>33</Duein>
+    <Late>0</Late>
+    <Exparrival>17:54</Exparrival>
+    <Expdepart>17:54</Expdepart>
+    <Scharrival>17:54</Scharrival>
+    <Schdepart>17:54</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>E124 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Howth</Origin>
+    <Destination>Greystones</Destination>
+    <Origintime>18:00</Origintime>
+    <Destinationtime>19:20</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>49</Duein>
+    <Late>0</Late>
+    <Exparrival>18:09</Exparrival>
+    <Expdepart>18:10</Expdepart>
+    <Scharrival>18:09</Scharrival>
+    <Schdepart>18:10</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>E225 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Malahide</Origin>
+    <Destination>Bray</Destination>
+    <Origintime>18:17</Origintime>
+    <Destinationtime>19:26</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>65</Duein>
+    <Late>0</Late>
+    <Exparrival>18:26</Exparrival>
+    <Expdepart>18:26</Expdepart>
+    <Scharrival>18:26</Scharrival>
+    <Schdepart>18:26</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>E251 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Howth</Origin>
+    <Destination>Bray</Destination>
+    <Origintime>18:30</Origintime>
+    <Destinationtime>19:39</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>78</Duein>
+    <Late>0</Late>
+    <Exparrival>18:39</Exparrival>
+    <Expdepart>18:39</Expdepart>
+    <Scharrival>18:39</Scharrival>
+    <Schdepart>18:39</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:21:19.07</Servertime>
+    <Traincode>P620 </Traincode>
+    <Stationfullname>Howth Junction</Stationfullname>
+    <Stationcode>HWTHJ</Stationcode>
+    <Querytime>17:21:19</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Drogheda</Origin>
+    <Destination>Dublin Pearse</Destination>
+    <Origintime>18:00</Origintime>
+    <Destinationtime>19:03</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>85</Duein>
+    <Late>0</Late>
+    <Exparrival>18:46</Exparrival>
+    <Expdepart>18:46</Expdepart>
+    <Scharrival>18:46</Scharrival>
+    <Schdepart>18:46</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+</ArrayOfObjStationData>

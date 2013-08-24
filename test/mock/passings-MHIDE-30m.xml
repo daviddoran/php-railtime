@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjStationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+  <objStationData>
+    <Servertime>2013-08-24T17:32:35.17</Servertime>
+    <Traincode>D814 </Traincode>
+    <Stationfullname>Malahide</Stationfullname>
+    <Stationcode>MHIDE</Stationcode>
+    <Querytime>17:32:35</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Dublin Pearse</Origin>
+    <Destination>Dundalk</Destination>
+    <Origintime>17:15</Origintime>
+    <Destinationtime>18:45</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Arrived Clongriffin</Lastlocation>
+    <Duein>8</Duein>
+    <Late>-2</Late>
+    <Exparrival>17:39</Exparrival>
+    <Expdepart>17:40</Expdepart>
+    <Scharrival>17:41</Scharrival>
+    <Schdepart>17:42</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2013-08-24T17:32:35.17</Servertime>
+    <Traincode>P618 </Traincode>
+    <Stationfullname>Malahide</Stationfullname>
+    <Stationcode>MHIDE</Stationcode>
+    <Querytime>17:32:35</Querytime>
+    <Traindate>24 Aug 2013</Traindate>
+    <Origin>Drogheda</Origin>
+    <Destination>Dublin Pearse</Destination>
+    <Origintime>17:00</Origintime>
+    <Destinationtime>18:04</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Arrived Donabate</Lastlocation>
+    <Duein>4</Duein>
+    <Late>-1</Late>
+    <Exparrival>17:35</Exparrival>
+    <Expdepart>17:36</Expdepart>
+    <Scharrival>17:37</Scharrival>
+    <Schdepart>17:37</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+</ArrayOfObjStationData>

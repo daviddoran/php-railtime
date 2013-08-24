@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjTrainPositions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>51.9018</TrainLatitude>
+    <TrainLongitude>-8.4582</TrainLongitude>
+    <TrainCode>A219</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A219\nCork to Dublin Heuston\nExpected Departure 14:20</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>0</TrainLatitude>
+    <TrainLongitude>0</TrainLongitude>
+    <TrainCode>A212</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A212\n12:00 - Dublin Heuston to Cork (8 mins late)\nDeparted Killarney Junction next stop Cork</PublicMessage>
+    <Direction>To Cork</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>0</TrainLatitude>
+    <TrainLongitude>0</TrainLongitude>
+    <TrainCode>A804</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A804\n12:45 - Dublin Heuston to Westport (4 mins late)\nDeparted Athlone Midland Yard next stop Roscommon</PublicMessage>
+    <Direction>To Westport</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.1396</TrainLatitude>
+    <TrainLongitude>-8.65521</TrainLongitude>
+    <TrainCode>A306</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A306\n13:20 - Mallow to Tralee (4 mins late)\nDeparted Mallow next stop Banteer</PublicMessage>
+    <Direction>To Tralee</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.5009</TrainLatitude>
+    <TrainLongitude>-8.20003</TrainLongitude>
+    <TrainCode>A217</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A217\n13:20 - Cork to Dublin Heuston (-1 mins late)\nArrived Limerick Junction next stop Thurles</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.6404</TrainLatitude>
+    <TrainLongitude>-8.52719</TrainLongitude>
+    <TrainCode>A786</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A786\n13:40 - Limerick Junction to Galway (10 mins late)\nDeparted Killonan next stop Limerick</PublicMessage>
+    <Direction>To Galway</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.6766</TrainLatitude>
+    <TrainLongitude>-7.82189</TrainLongitude>
+    <TrainCode>A214</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A214\n13:00 - Dublin Heuston to Cork (4 mins late)\nDeparted Thurles next stop Limerick Junction</PublicMessage>
+    <Direction>To Cork</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.7878</TrainLatitude>
+    <TrainLongitude>-7.82293</TrainLongitude>
+    <TrainCode>A215</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A215\n12:20 - Cork to Dublin Heuston (35 mins late)\nDeparted Templemore next stop Portlaoise</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.8407</TrainLatitude>
+    <TrainLongitude>-6.92217</TrainLongitude>
+    <TrainCode>A511</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A511\n13:05 - Waterford to Dublin Heuston (1 mins late)\nDeparted Carlow next stop Athy</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.992</TrainLatitude>
+    <TrainLongitude>-6.9762</TrainLongitude>
+    <TrainCode>A506</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A506\n13:15 - Dublin Heuston to Waterford (-3 mins late)\nDeparted Athy next stop Carlow</PublicMessage>
+    <Direction>To Waterford</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2135</TrainLatitude>
+    <TrainLongitude>-7.35205</TrainLongitude>
+    <TrainCode>A706</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A706\n13:25 - Dublin Heuston to Galway (4 mins late)\nDeparted Geashill next stop Tullamore</PublicMessage>
+    <Direction>To Galway</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2469</TrainLatitude>
+    <TrainLongitude>-6.66386</TrainLongitude>
+    <TrainCode>A216</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A216\n14:00 - Dublin Heuston to Cork (1 mins late)\nDeparted Sallins next stop Portlaoise</PublicMessage>
+    <Direction>To Cork</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2557</TrainLatitude>
+    <TrainLongitude>-6.11317</TrainLongitude>
+    <TrainCode>A606</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A606\n13:36 - Dublin Connolly to Rosslare Europort (12 mins late)\nDeparted Killiney next stop Bray</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3432</TrainLatitude>
+    <TrainLongitude>-8.47231</TrainLongitude>
+    <TrainCode>A702</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A702\n09:25 - Dublin Heuston to Galway (146 mins late)\nDeparted Woodlawn next stop Athenry</PublicMessage>
+    <Direction>To Galway</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3602</TrainLatitude>
+    <TrainLongitude>-7.79847</TrainLongitude>
+    <TrainCode>A713</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A713\n13:05 - Galway to Dublin Heuston (0 mins late)\nDeparted Clonydonnin next stop Clara</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.378</TrainLatitude>
+    <TrainLongitude>-6.58993</TrainLongitude>
+    <TrainCode>A906</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A906\n13:05 - Dublin Connolly to Sligo (8 mins late)\nDeparted Maynooth next stop Kilcock</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.6635</TrainLatitude>
+    <TrainLongitude>-6.23271</TrainLongitude>
+    <TrainCode>A127</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A127\n12:35 - Belfast Central to Dublin Connolly (3 mins late)\nDeparted Mosney next stop Dublin Connolly</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.712</TrainLatitude>
+    <TrainLongitude>-6.33538</TrainLongitude>
+    <TrainCode>A128</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A128\n13:20 - Dublin Connolly to Belfast Central (0 mins late)\nArrived Drogheda next stop Dundalk</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.7955</TrainLatitude>
+    <TrainLongitude>-9.50885</TrainLongitude>
+    <TrainCode>A809</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A809\n13:10 - Westport to Dublin Heuston (0 mins late)\nDeparted Westport next stop Castlebar</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>54.2723</TrainLatitude>
+    <TrainLongitude>-8.48249</TrainLongitude>
+    <TrainCode>A909</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A909\n13:00 - Sligo to Dublin Connolly (0 mins late)\nDeparted Sligo next stop Collooney</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>T</TrainStatus>
+    <TrainLatitude>52.5009</TrainLatitude>
+    <TrainLongitude>-8.20003</TrainLongitude>
+    <TrainCode>A435</TrainCode>
+    <TrainDate>24 Aug 2013</TrainDate>
+    <PublicMessage>A435\n13:45 - Limerick to Limerick Junction(8 mins late)\nTERMINATED Limerick Junction at 14:19</PublicMessage>
+    <Direction>To Limerick Junction</Direction>
+  </objTrainPositions>
+</ArrayOfObjTrainPositions>
