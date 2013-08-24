@@ -2,30 +2,6 @@
 
 namespace Railtime;
 
-const BaseURI = "http://api.irishrail.ie/realtime/realtime.asmx";
-
-const DirectionNorthbound = 'N';
-const DirectionSouthbound = 'S';
-const DirectionToStation  = 'T';
-
-const TrainTypeAll      = 'A';
-const TrainTypeDart     = 'D';
-const TrainTypeMainline = 'M';
-const TrainTypeSuburban = 'S';
-
-const StationTypeAll      = 'A';
-const StationTypeDart     = 'D';
-const StationTypeMainline = 'M';
-const StationTypeSuburban = 'S';
-
-const LocationTypeOrigin = 'O';
-const LocationTypeDestination = 'D';
-const LocationTypeStop = 'S';
-const LocationTypeTimingPoint = 'T';
-
-const StopTypeCurrent = 'C';
-const StopTypeNext    = 'N';
-
 /**
  * Railtime API Exception
  * @package Railtime
@@ -203,7 +179,7 @@ class API {
      * @param string $path
      * @param array $params
      * @param callable $function
-     * @return RailtimeObject
+     * @return Object
      * @throws Exception
      */
     protected function _get_mapped($path, array $params, /*callable*/ $function) {
@@ -224,16 +200,4 @@ class API {
             throw new Exception("XML parsing failed.", 0, $e);
         }
     }
-}
-
-function jsonify($api, $filename, $function, $ttl = 3600) {
-    if (file_exists($filename)) {
-        if (filemtime($filename) > (time() - $ttl)) {
-            return;
-        }
-    }
-    file_put_contents("json/" . $filename, json_encode(
-        $function($api),
-        JSON_PRETTY_PRINT
-    ));
 }

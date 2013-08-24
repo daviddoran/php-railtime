@@ -2,7 +2,7 @@
 
 namespace Railtime;
 
-class TrainMovement extends RailtimeObject {
+class TrainMovement extends Object {
     /**
      * Train code
      *

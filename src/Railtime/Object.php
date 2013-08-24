@@ -5,7 +5,7 @@ namespace Railtime;
 /**
  * Abstract class providing utility functions
  */
-abstract class RailtimeObject {
+abstract class Object {
     /**
      * Create an instance of the class (and fill properties)
      *

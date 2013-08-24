@@ -7,7 +7,7 @@ namespace Railtime;
  *
  * @package Railtime
  */
-class StationPassing extends RailtimeObject {
+class StationPassing extends Object {
     /**
      * @var string
      */

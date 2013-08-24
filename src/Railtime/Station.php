@@ -7,7 +7,7 @@ namespace Railtime;
  *
  * @package Railtime
  */
-class Station extends RailtimeObject {
+class Station extends Object {
     /**
      * @var int
      */
