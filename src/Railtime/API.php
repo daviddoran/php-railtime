@@ -15,10 +15,15 @@ class API {
     protected $downloader;
 
     /**
-     * @param DownloaderInterface $dl
+     * @param DownloaderInterface $downloader
      */
-    public function __construct(DownloaderInterface $dl) {
-        $this->downloader = $dl;
+    public function __construct(DownloaderInterface $downloader = null) {
+        if ($downloader instanceof DownloaderInterface) {
+            $this->downloader = $downloader;
+        } else {
+            $this->downloader = new Downloader;
+        }
+
     }
 
     /**
@@ -80,6 +85,7 @@ class API {
      * @param string $name_or_code
      * @param int $minutes
      * @return StationPassing[]
+     * @throws Exception
      */
     public function station_passings($name_or_code, $minutes = null) {
         $callback = function (\SimpleXMLElement $passing) {
@@ -116,6 +122,9 @@ class API {
             $path = "/getStationDataByCodeXML" . (!is_null($minutes) ? "_WithNumMins" : "");
         }
         if (!is_null($minutes)) {
+            if ($minutes < 5 or $minutes > 90) {
+                throw new Exception("Minutes must be between 5 and 90 (inclusive).");
+            }
             $query["NumMins"] = $minutes;
         }
         return $this->_get_mapped($path, $query, $callback);

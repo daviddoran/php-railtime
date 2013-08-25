@@ -112,6 +112,29 @@ class APITest extends \PHPUnit_Framework_TestCase {
     }
 
     /**
+     * @expectedException \Railtime\Exception
+     * @dataProvider testStationPassingsValidateMinsProvider
+     * @param int $mins
+     */
+    public function testStationPassingsValidateMins($mins) {
+        $mock_downloader = $this->mock_downloader_interface();
+        $api = new \Railtime\API($mock_downloader);
+        $api->station_passings("MHIDE", $mins);
+    }
+
+    /**
+     * @return array
+     */
+    public function testStationPassingsValidateMinsProvider() {
+        return array(
+            array(null),
+            array(0),
+            array(4),
+            array(91),
+        );
+    }
+
+    /**
      * @dataProvider testTrainMovementsProvider
      * @param string $train_id
      * @param string $train_date
