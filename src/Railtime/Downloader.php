@@ -25,7 +25,7 @@ class Downloader implements DownloaderInterface {
         try {
             $response = \Requests::request(self::build_uri($this->base_uri, $path), array(), $params, \Requests::GET);
         } catch (\Requests_Exception $e) {
-            throw new Exception("Downloading XML failed.", 0, $e);
+            throw new Exception("Downloading XML failed: " . $e->getMessage(), 0, $e);
         }
         return $response->body;
     }

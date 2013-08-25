@@ -112,33 +112,67 @@ class TrainMovement extends Object {
      * @return bool
      */
     public function is_arrived() {
-        return !is_null($this->actual_arrival) && ("" !== $this->actual_arrival);
+        return Utility::is_valid_time_string($this->actual_arrival);
     }
 
     /**
      * @return bool
      */
     public function is_departed() {
-        return !is_null($this->actual_departure) && ("" !== $this->actual_departure);
+        return Utility::is_valid_time_string($this->actual_departure);
     }
 
-    public function arrival_diff() {
-        if (in_array("00:00:00", array($this->scheduled_arrival, $this->actual_arrival))) {
-            return 0;
+    /**
+     * How many seconds the actual arrival was ahead/behind of schedule
+     *
+     * Note: a negative result means the train arrived ahead of schedule (early).
+     *
+     * @return int
+     * @throws Exception
+     */
+    public function arrival_diff_seconds() {
+        if (!$this->is_arrived()) {
+            throw new Exception("Train has not arrived yet. Can't calculate difference from scheduled arrival time.");
         }
-        //TODO: Be careful about timezones!
-        $sch_arr = strtotime($this->train_date . " " . $this->scheduled_arrival);
-        $act_arr = strtotime($this->train_date . " " . $this->actual_arrival);
-        return (($act_arr - $sch_arr) / 60);
+        if (!Utility::is_valid_time_string($this->scheduled_arrival)) {
+            throw new Exception("This train movement does not have a valid scheduled arrival time.");
+        }
+
+        //TODO: Handle the 00:00:00 case!
+//        if (in_array("00:00:00", array($this->scheduled_arrival, $this->actual_arrival))) {
+//            return 0;
+//        }
+
+        $scheduled = Utility::datetime_string_to_datetime($this->train_date . " " . $this->scheduled_arrival);
+        $actual = Utility::datetime_string_to_datetime($this->train_date . " " . $this->actual_arrival);
+
+        return $actual->getTimestamp() - $scheduled->getTimestamp();
     }
 
-    public function departure_diff() {
-        if (in_array("00:00:00", array($this->scheduled_departure, $this->actual_departure))) {
-            return 0;
+    /**
+     * How many seconds the actual departure was ahead/behind of schedule
+     *
+     * Note: a negative result means the train departed ahead of schedule (early).
+     *
+     * @return int
+     * @throws Exception
+     */
+    public function departure_diff_seconds() {
+        if (!$this->is_departed()) {
+            throw new Exception("Train has not departed yet. Can't calculate difference from scheduled departure time.");
         }
-        //TODO: Be careful about timezones!
-        $sch_dep = strtotime($this->train_date . " " . $this->scheduled_departure);
-        $act_dep = strtotime($this->train_date . " " . $this->actual_departure);
-        return (($act_dep - $sch_dep) / 60);
+        if (!Utility::is_valid_time_string($this->scheduled_departure)) {
+            throw new Exception("This train movement does not have a valid scheduled departure time.");
+        }
+
+        //TODO: Handle the 00:00:00 case!
+//        if (in_array("00:00:00", array($this->scheduled_arrival, $this->actual_arrival))) {
+//            return 0;
+//        }
+
+        $scheduled = Utility::datetime_string_to_datetime($this->train_date . " " . $this->scheduled_departure);
+        $actual = Utility::datetime_string_to_datetime($this->train_date . " " . $this->actual_departure);
+
+        return $actual->getTimestamp() - $scheduled->getTimestamp();
     }
 }

@@ -18,7 +18,7 @@ abstract class Object {
         $object = new $klass;
         foreach ($properties as $name => $value) {
             if (!property_exists($klass, $name)) {
-                throw new \Exception("The property {$name} does not exist in the class {$klass}");
+                throw new Exception("The property {$name} does not exist in the class {$klass}");
             }
             $object->{$name} = $value;
         }

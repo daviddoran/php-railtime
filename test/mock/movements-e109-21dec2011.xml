@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjTrainMovements xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>MHIDE</LocationCode>
+    <LocationFullName>Malahide</LocationFullName>
+    <LocationOrder>1</LocationOrder>
+    <LocationType>O</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>00:00:00</ScheduledArrival>
+    <ScheduledDeparture>10:30:00</ScheduledDeparture>
+    <ExpectedArrival>00:00:00</ExpectedArrival>
+    <ExpectedDeparture>10:30:00</ExpectedDeparture>
+    <Arrival>10:19:24</Arrival>
+    <Departure>10:30:24</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>PMNCK</LocationCode>
+    <LocationFullName>Portmarnock</LocationFullName>
+    <LocationOrder>2</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>10:33:30</ScheduledArrival>
+    <ScheduledDeparture>10:34:00</ScheduledDeparture>
+    <ExpectedArrival>10:33:54</ExpectedArrival>
+    <ExpectedDeparture>10:34:18</ExpectedDeparture>
+    <Arrival>10:33:48</Arrival>
+    <Departure>10:35:18</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>GRGRD</LocationCode>
+    <LocationFullName>Clongriffin</LocationFullName>
+    <LocationOrder>3</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>10:36:30</ScheduledArrival>
+    <ScheduledDeparture>10:37:00</ScheduledDeparture>
+    <ExpectedArrival>10:37:48</ExpectedArrival>
+    <ExpectedDeparture>10:38:18</ExpectedDeparture>
+    <Arrival>10:35:18</Arrival>
+    <Departure>10:37:42</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>HWTHJ</LocationCode>
+    <LocationFullName>Howth Junction</LocationFullName>
+    <LocationOrder>4</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>10:39:00</ScheduledArrival>
+    <ScheduledDeparture>10:39:30</ScheduledDeparture>
+    <ExpectedArrival>10:39:42</ExpectedArrival>
+    <ExpectedDeparture>10:39:48</ExpectedDeparture>
+    <Arrival>10:39:18</Arrival>
+    <Departure>10:40:12</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>KBRCK</LocationCode>
+    <LocationFullName>Kilbarrack</LocationFullName>
+    <LocationOrder>5</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>10:40:30</ScheduledArrival>
+    <ScheduledDeparture>10:41:00</ScheduledDeparture>
+    <ExpectedArrival>10:41:12</ExpectedArrival>
+    <ExpectedDeparture>10:41:24</ExpectedDeparture>
+    <Arrival>10:40:54</Arrival>
+    <Departure>10:42:12</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>RAHNY</LocationCode>
+    <LocationFullName>Raheny</LocationFullName>
+    <LocationOrder>6</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>10:42:30</ScheduledArrival>
+    <ScheduledDeparture>10:43:00</ScheduledDeparture>
+    <ExpectedArrival>10:43:42</ExpectedArrival>
+    <ExpectedDeparture>10:43:24</ExpectedDeparture>
+    <Arrival>10:42:54</Arrival>
+    <Departure>10:44:54</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>HTOWN</LocationCode>
+    <LocationFullName>Harmonstown</LocationFullName>
+    <LocationOrder>7</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>10:44:30</ScheduledArrival>
+    <ScheduledDeparture>10:45:00</ScheduledDeparture>
+    <ExpectedArrival>10:46:24</ExpectedArrival>
+    <ExpectedDeparture>10:45:54</ExpectedDeparture>
+    <Arrival>10:45:24</Arrival>
+    <Departure>10:46:42</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>KLSTR</LocationCode>
+    <LocationFullName>Killester</LocationFullName>
+    <LocationOrder>8</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>10:47:00</ScheduledArrival>
+    <ScheduledDeparture>10:47:30</ScheduledDeparture>
+    <ExpectedArrival>10:48:42</ExpectedArrival>
+    <ExpectedDeparture>10:48:18</ExpectedDeparture>
+    <Arrival>10:47:48</Arrival>
+    <Departure>10:49:00</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>CTARF</LocationCode>
+    <LocationFullName>Clontarf Road</LocationFullName>
+    <LocationOrder>9</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>10:50:30</ScheduledArrival>
+    <ScheduledDeparture>10:51:00</ScheduledDeparture>
+    <ExpectedArrival>10:52:00</ExpectedArrival>
+    <ExpectedDeparture>10:51:30</ExpectedDeparture>
+    <Arrival>10:51:00</Arrival>
+    <Departure>10:52:12</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>CNLLY</LocationCode>
+    <LocationFullName>Dublin Connolly</LocationFullName>
+    <LocationOrder>10</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>10:54:00</ScheduledArrival>
+    <ScheduledDeparture>10:55:00</ScheduledDeparture>
+    <ExpectedArrival>10:55:12</ExpectedArrival>
+    <ExpectedDeparture>10:56:42</ExpectedDeparture>
+    <Arrival>10:55:42</Arrival>
+    <Departure>10:57:18</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>TARA</LocationCode>
+    <LocationFullName>Tara Street</LocationFullName>
+    <LocationOrder>11</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>10:57:00</ScheduledArrival>
+    <ScheduledDeparture>10:58:00</ScheduledDeparture>
+    <ExpectedArrival>10:59:18</ExpectedArrival>
+    <ExpectedDeparture>10:59:48</ExpectedDeparture>
+    <Arrival>10:58:48</Arrival>
+    <Departure>11:00:00</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>PERSE</LocationCode>
+    <LocationFullName>Dublin Pearse</LocationFullName>
+    <LocationOrder>12</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>10:59:00</ScheduledArrival>
+    <ScheduledDeparture>11:00:00</ScheduledDeparture>
+    <ExpectedArrival>11:01:00</ExpectedArrival>
+    <ExpectedDeparture>11:01:30</ExpectedDeparture>
+    <Arrival>11:00:30</Arrival>
+    <Departure>11:01:48</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>GCDK</LocationCode>
+    <LocationFullName>Grand Canal Dock</LocationFullName>
+    <LocationOrder>13</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:01:30</ScheduledArrival>
+    <ScheduledDeparture>11:02:00</ScheduledDeparture>
+    <ExpectedArrival>11:03:18</ExpectedArrival>
+    <ExpectedDeparture>11:03:00</ExpectedDeparture>
+    <Arrival>11:02:30</Arrival>
+    <Departure>11:04:06</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>LDWNE</LocationCode>
+    <LocationFullName>Lansdowne Road</LocationFullName>
+    <LocationOrder>14</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:03:30</ScheduledArrival>
+    <ScheduledDeparture>11:04:00</ScheduledDeparture>
+    <ExpectedArrival>11:05:36</ExpectedArrival>
+    <ExpectedDeparture>11:05:30</ExpectedDeparture>
+    <Arrival>11:05:00</Arrival>
+    <Departure>11:06:06</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>SMONT</LocationCode>
+    <LocationFullName>Sandymount</LocationFullName>
+    <LocationOrder>15</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:05:30</ScheduledArrival>
+    <ScheduledDeparture>11:06:00</ScheduledDeparture>
+    <ExpectedArrival>11:07:36</ExpectedArrival>
+    <ExpectedDeparture>11:07:18</ExpectedDeparture>
+    <Arrival>11:06:48</Arrival>
+    <Departure>11:07:48</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>SIDNY</LocationCode>
+    <LocationFullName>Sydney Parade</LocationFullName>
+    <LocationOrder>16</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:07:30</ScheduledArrival>
+    <ScheduledDeparture>11:08:00</ScheduledDeparture>
+    <ExpectedArrival>11:09:18</ExpectedArrival>
+    <ExpectedDeparture>11:09:36</ExpectedDeparture>
+    <Arrival>11:09:06</Arrival>
+    <Departure>11:10:18</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>BTSTN</LocationCode>
+    <LocationFullName>Booterstown</LocationFullName>
+    <LocationOrder>17</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:10:00</ScheduledArrival>
+    <ScheduledDeparture>11:10:30</ScheduledDeparture>
+    <ExpectedArrival>11:12:18</ExpectedArrival>
+    <ExpectedDeparture>11:11:54</ExpectedDeparture>
+    <Arrival>11:11:24</Arrival>
+    <Departure>11:12:48</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>BROCK</LocationCode>
+    <LocationFullName>Blackrock</LocationFullName>
+    <LocationOrder>18</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:12:00</ScheduledArrival>
+    <ScheduledDeparture>11:12:30</ScheduledDeparture>
+    <ExpectedArrival>11:14:18</ExpectedArrival>
+    <ExpectedDeparture>11:14:06</ExpectedDeparture>
+    <Arrival>11:13:36</Arrival>
+    <Departure>11:15:42</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>SEAPT</LocationCode>
+    <LocationFullName>Seapoint</LocationFullName>
+    <LocationOrder>19</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:14:00</ScheduledArrival>
+    <ScheduledDeparture>11:14:30</ScheduledDeparture>
+    <ExpectedArrival>11:17:12</ExpectedArrival>
+    <ExpectedDeparture>11:16:30</ExpectedDeparture>
+    <Arrival>11:16:00</Arrival>
+    <Departure>11:17:36</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>SHILL</LocationCode>
+    <LocationFullName>Salthill</LocationFullName>
+    <LocationOrder>20</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:16:00</ScheduledArrival>
+    <ScheduledDeparture>11:16:30</ScheduledDeparture>
+    <ExpectedArrival>11:19:06</ExpectedArrival>
+    <ExpectedDeparture>11:18:24</ExpectedDeparture>
+    <Arrival>11:17:54</Arrival>
+    <Departure>11:19:36</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>DLERY</LocationCode>
+    <LocationFullName>Dun Laoghaire</LocationFullName>
+    <LocationOrder>21</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:18:30</ScheduledArrival>
+    <ScheduledDeparture>11:19:00</ScheduledDeparture>
+    <ExpectedArrival>11:21:36</ExpectedArrival>
+    <ExpectedDeparture>11:21:12</ExpectedDeparture>
+    <Arrival>11:20:42</Arrival>
+    <Departure>11:22:00</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>SCOVE</LocationCode>
+    <LocationFullName>Sandycove</LocationFullName>
+    <LocationOrder>22</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:21:30</ScheduledArrival>
+    <ScheduledDeparture>11:22:00</ScheduledDeparture>
+    <ExpectedArrival>11:24:30</ExpectedArrival>
+    <ExpectedDeparture>11:24:24</ExpectedDeparture>
+    <Arrival>11:23:54</Arrival>
+    <Departure>11:25:54</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>GLGRY</LocationCode>
+    <LocationFullName>Glenageary</LocationFullName>
+    <LocationOrder>23</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:23:30</ScheduledArrival>
+    <ScheduledDeparture>11:24:00</ScheduledDeparture>
+    <ExpectedArrival>11:27:24</ExpectedArrival>
+    <ExpectedDeparture>11:26:48</ExpectedDeparture>
+    <Arrival>11:26:18</Arrival>
+    <Departure>11:28:00</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>DLKEY</LocationCode>
+    <LocationFullName>Dalkey</LocationFullName>
+    <LocationOrder>24</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:26:00</ScheduledArrival>
+    <ScheduledDeparture>11:26:30</ScheduledDeparture>
+    <ExpectedArrival>11:30:00</ExpectedArrival>
+    <ExpectedDeparture>11:29:24</ExpectedDeparture>
+    <Arrival>11:28:54</Arrival>
+    <Departure>11:30:24</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>KILNY</LocationCode>
+    <LocationFullName>Killiney</LocationFullName>
+    <LocationOrder>25</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:30:00</ScheduledArrival>
+    <ScheduledDeparture>11:30:30</ScheduledDeparture>
+    <ExpectedArrival>11:33:54</ExpectedArrival>
+    <ExpectedDeparture>11:33:42</ExpectedDeparture>
+    <Arrival>11:33:12</Arrival>
+    <Departure>11:34:54</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>SKILL</LocationCode>
+    <LocationFullName>Shankill</LocationFullName>
+    <LocationOrder>26</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:32:30</ScheduledArrival>
+    <ScheduledDeparture>11:33:00</ScheduledDeparture>
+    <ExpectedArrival>11:36:54</ExpectedArrival>
+    <ExpectedDeparture>11:36:42</ExpectedDeparture>
+    <Arrival>11:36:12</Arrival>
+    <Departure>11:37:42</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>WBROK</LocationCode>
+    <LocationFullName>Woodbrook</LocationFullName>
+    <LocationOrder>27</LocationOrder>
+    <LocationType>T</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:35:30</ScheduledArrival>
+    <ScheduledDeparture>11:36:00</ScheduledDeparture>
+    <ExpectedArrival>11:40:12</ExpectedArrival>
+    <ExpectedDeparture>11:40:42</ExpectedDeparture>
+    <Arrival />
+    <Departure />
+    <AutoArrival />
+    <AutoDepart />
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>BRAY</LocationCode>
+    <LocationFullName>Bray</LocationFullName>
+    <LocationOrder>28</LocationOrder>
+    <LocationType>S</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:39:00</ScheduledArrival>
+    <ScheduledDeparture>11:41:00</ScheduledDeparture>
+    <ExpectedArrival>11:43:42</ExpectedArrival>
+    <ExpectedDeparture>11:43:06</ExpectedDeparture>
+    <Arrival>11:41:06</Arrival>
+    <Departure>11:42:54</Departure>
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart>1</AutoDepart>
+    <StopType>-</StopType>
+  </objTrainMovements>
+  <objTrainMovements>
+    <TrainCode>E109 </TrainCode>
+    <TrainDate>21 Dec 2011</TrainDate>
+    <LocationCode>GSTNS</LocationCode>
+    <LocationFullName>Greystones</LocationFullName>
+    <LocationOrder>29</LocationOrder>
+    <LocationType>D</LocationType>
+    <TrainOrigin>Malahide</TrainOrigin>
+    <TrainDestination>Greystones</TrainDestination>
+    <ScheduledArrival>11:50:00</ScheduledArrival>
+    <ScheduledDeparture>00:00:00</ScheduledDeparture>
+    <ExpectedArrival>11:51:54</ExpectedArrival>
+    <ExpectedDeparture>00:00:00</ExpectedDeparture>
+    <Arrival>11:52:00</Arrival>
+    <Departure />
+    <AutoArrival>1</AutoArrival>
+    <AutoDepart />
+    <StopType>C</StopType>
+  </objTrainMovements>
+</ArrayOfObjTrainMovements>

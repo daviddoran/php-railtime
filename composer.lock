@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "d4d27199f5070a0e065df78dc873ae57",
+    "hash": "87d6c675f162f0b0e9de4f38963ab829",
     "packages": [
         {
             "name": "rmccue/requests",

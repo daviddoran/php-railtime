@@ -196,7 +196,6 @@ class API {
             }
             return $results;
         } catch (\Exception $e) {
-            //print_r(libxml_get_errors());
             throw new Exception("XML parsing failed.", 0, $e);
         }
     }

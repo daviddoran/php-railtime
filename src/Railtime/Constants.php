@@ -4,6 +4,9 @@ namespace Railtime;
 
 const BaseURI = "http://api.irishrail.ie/realtime/realtime.asmx";
 
+//The timezone of the dates and times returned by the API
+const Timezone = "Europe/Dublin";
+
 const DirectionNorthbound = 'N';
 const DirectionSouthbound = 'S';
 const DirectionToStation  = 'T';

@@ -1,8 +1,6 @@
 <?php
 
-class APIRequestsTest extends \PHPUnit_Framework_TestCase {
-    protected function setUp() {}
-
+class APITest extends \PHPUnit_Framework_TestCase {
     /**
      * @dataProvider testStationsProvider
      * @param string $station_type
@@ -111,6 +109,51 @@ class APIRequestsTest extends \PHPUnit_Framework_TestCase {
             //station code (30 minutes)
             array("MHIDE", "Malahide", 30, "/getStationDataByCodeXML_WithNumMins", array("StationCode" => "MHIDE", "NumMins" => 30), self::mockfile("passings-MHIDE-30m.xml")),
         );
+    }
+
+    /**
+     * @dataProvider testTrainMovementsProvider
+     * @param string $train_id
+     * @param string $train_date
+     * @param string $mock_xml_file
+     */
+    public function testTrainMovements($train_id, $train_date, $mock_xml_file) {
+        $mock_downloader = $this->mock_downloader_interface();
+        $mock_downloader
+            ->expects($this->once())->method('get')
+            ->with(
+                $this->equalTo("/getTrainMovementsXML"),
+                $this->equalTo(array("TrainId" => $train_id, "TrainDate" => $train_date))
+            )
+            ->will($this->returnValue(file_get_contents($mock_xml_file)));
+
+        $api = new \Railtime\API($mock_downloader);
+        $movements = $api->train_movements($train_id, $train_date);
+        $this->assertNotEmpty($movements);
+        $this->assertContainsOnlyInstancesOf('\Railtime\TrainMovement', $movements);
+    }
+
+    /**
+     * @return array
+     */
+    public function testTrainMovementsProvider() {
+        return array(
+            array("e109", "21 dec 2011", self::mockfile("movements-e109-21dec2011.xml")),
+            array("E815", "25 Aug 2013", self::mockfile("movements-e815-25aug2013.xml")),
+        );
+    }
+
+    /**
+     * @expectedException \Railtime\Exception
+     */
+    public function testHandleInvalidXml() {
+        $mock_downloader = $this->mock_downloader_interface();
+        $mock_downloader
+            ->expects($this->once())->method('get')
+            ->will($this->returnValue("Not an XML string."));
+
+        $api = new \Railtime\API($mock_downloader);
+        $api->stations();
     }
 
     /**
