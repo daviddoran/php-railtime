@@ -27,9 +27,15 @@ The `API` class exposes the following methods:
     StationPassing[]    station_passings($name_or_code[, $minutes = null])
     TrainMovement[]     train_movements($train_id, $train_date)
 
-Make sure to check out the [Examples](#examples).
+Make sure to check out the [Examples](#examples) below.
 
 ## Installing
+
+This package is [available from Packagist](https://packagist.org/packages/daviddoran/railtime).
+
+To install using Composer, add this to the `"require":` section of your `composer.json` file:
+
+    "daviddoran/railtime": "dev-master"
 
 Once you've [installed Composer](http://getcomposer.org/doc/00-intro.md#installation-nix) simply run:
 
