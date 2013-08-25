@@ -123,6 +123,20 @@ class TrainMovement extends Object {
     }
 
     /**
+     * @return bool
+     */
+    public function is_origin() {
+        return ($this->location_type === LocationTypeOrigin);
+    }
+
+    /**
+     * @return bool
+     */
+    public function is_destination() {
+        return ($this->location_type === LocationTypeDestination);
+    }
+
+    /**
      * How many seconds the actual arrival was ahead/behind of schedule
      *
      * Note: a negative result means the train arrived ahead of schedule (early).

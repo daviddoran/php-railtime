@@ -23,7 +23,6 @@ class API {
         } else {
             $this->downloader = new Downloader;
         }
-
     }
 
     /**

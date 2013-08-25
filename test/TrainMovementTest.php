@@ -3,6 +3,26 @@
 use Railtime\TrainMovement;
 
 class TrainMovementTest extends \PHPUnit_Framework_TestCase {
+    public function testIsOrigin() {
+        $tm = new TrainMovement;
+        $tm->location_type = \Railtime\LocationTypeOrigin;
+        $this->assertEquals(true, $tm->is_origin());
+        $tm->location_type = \Railtime\LocationTypeDestination;
+        $this->assertEquals(false, $tm->is_origin());
+        $tm->location_type = \Railtime\LocationTypeStop;
+        $this->assertEquals(false, $tm->is_origin());
+    }
+
+    public function testIsDesination() {
+        $tm = new TrainMovement;
+        $tm->location_type = \Railtime\LocationTypeDestination;
+        $this->assertEquals(true, $tm->is_destination());
+        $tm->location_type = \Railtime\LocationTypeOrigin;
+        $this->assertEquals(false, $tm->is_destination());
+        $tm->location_type = \Railtime\LocationTypeStop;
+        $this->assertEquals(false, $tm->is_destination());
+    }
+
     /**
      * @dataProvider timeProvider
      * @param string|null $input
