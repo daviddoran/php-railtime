@@ -1,4 +1,4 @@
-# Railtime
+# Railtime [![Build Status](https://api.travis-ci.org/daviddoran/php-railtime.png)](https://travis-ci.org/daviddoran/php-railtime)
 
 A PHP library for [Irish Rail's Realtime API](http://api.irishrail.ie/realtime/).
 
@@ -45,7 +45,7 @@ Or, if you installed composer globally:
 
     composer install
 
-## Tests [![Build Status](https://api.travis-ci.org/daviddoran/php-railtime.png)](https://travis-ci.org/daviddoran/php-railtime)
+## Tests
 
 The unit tests are contained in `test` and the configuration in `phpunit.xml`.
 
